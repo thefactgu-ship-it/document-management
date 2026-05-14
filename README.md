@@ -196,3 +196,4 @@ Note: `assets/js/push-notification.js` references `/api/*` endpoints for Web Pus
 - Improve error handling and validation around uploads.
 - Add role/permission granularity beyond `admin` and `user`.
 - Containerize the project with Docker for faster reviewer setup.
+<img width="1905" height="943" alt="image" src="https://github.com/user-attachments/assets/94285f00-3b5a-48cc-9def-bdab660245ef" />
