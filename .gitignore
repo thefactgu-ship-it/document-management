@@ -1,0 +1,32 @@
+# Local environment
+.env
+.env.*
+!.env.example
+
+# PHP dependencies
+vendor/
+composer.lock
+
+# Runtime logs and temporary files
+*.log
+*.tmp
+*.cache
+my_line_webhook_log.txt
+
+# Uploaded user files
+uploads/*
+personal_uploads/*
+personal_response_uploads/*
+
+# Keep upload directories in the repository
+!uploads/.gitkeep
+!personal_uploads/.gitkeep
+!personal_response_uploads/.gitkeep
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
